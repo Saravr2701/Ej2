@@ -1,4 +1,8 @@
 Esto es una prueba , soy Saul.
+<<<<<<< HEAD
 Jose Ignacio es el mejor profesor.
 
 ESto es un cambio de prueba.
+=======
+hola
+>>>>>>> 771f2ad0827cf3748185c32aa882a55cb8e07d79
