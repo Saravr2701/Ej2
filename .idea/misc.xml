@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="KubernetesApiProvider">{}</component>
+=======
+>>>>>>> 84cda83a960fcbff1cbeacb1816a4847295d957e
+>>>>>>> 771f2ad0827cf3748185c32aa882a55cb8e07d79
   <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
