@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Proyecto GIT.iml" filepath="$PROJECT_DIR$/Proyecto GIT.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Grupo.iml" filepath="$PROJECT_DIR$/Grupo.iml" />
+>>>>>>> 84cda83a960fcbff1cbeacb1816a4847295d957e
     </modules>
   </component>
 </project>
