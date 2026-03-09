@@ -5,7 +5,11 @@ public class Main {
             System.out.println("Holaaaa "+i);
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
         //me gustas Sara, puedo ser tu novia?
+=======
+        System.out.pritnln("Programita finalizado siuuuuuu");
+>>>>>>> 7dd31ced6447fdf63d2390619d108dcde0f229cd
 =======
         System.out.pritnln("Programita finalizado siuuuuuu");
 >>>>>>> 7dd31ced6447fdf63d2390619d108dcde0f229cd
